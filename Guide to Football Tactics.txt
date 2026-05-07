@@ -66,14 +66,7 @@ d) 60th-80th min = counter, fluid
 e) 80th min-endtime = defensive, very fluid
 
 
-8) How to play if in England
-
-a) Premier and Championship leagues = fluid counter
-b) Leagues 1 & 2 = standard flexible
-c) Vanarama and amateur leagues = structured control
-
-
-9) Notes
+8) Notes
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
@@ -84,8 +77,9 @@ f) If both teams play the same, agressive tactic will favor home team, and defen
 g) It may be a good idea to play what is efficient when it's efficient, even if you are chasing result
 h) Girls should train all 4 mentality/fluidity combos
 g) For training might be a good idea to tell your team to try to develop some new scheme in offense/defense, like 1 new one a month
+h) If you play a mentality at opposite time it is efficient in, you may conceede.
 
-10) Player responsibilities
+9) Player responsibilities
 
 a) Very fluid
 
