@@ -10,11 +10,11 @@ g) 6 attackers = overload
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
-a) 7 defenders = very fluid
-b) 6 defenders = fluid
+a) 3 defenders = very fluid
+b) 4 defenders = fluid
 c) 5 defenders = flexible
-d) 4 defenders = structured
-e) 3 defenders = highly structured
+d) 6 defenders = structured
+e) 7 defenders = highly structured
 
 3. Fluidity meaning:
 
