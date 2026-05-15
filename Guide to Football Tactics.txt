@@ -10,11 +10,11 @@ g) 6 attackers = overload
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
-a) 3 defenders = very fluid
-b) 4 defenders = fluid
+a) 7 defenders = very fluid
+b) 6 defenders = fluid
 c) 5 defenders = flexible
-d) 6 defenders = structured
-e) 7 defenders = highly structured
+d) 4 defenders = structured
+e) 3 defenders = highly structured
 
 3. Fluidity meaning:
 
@@ -48,16 +48,7 @@ e) counter = CB
 f) defensive = SW
 g) contain = GK
 
-6) Team instructions
-
-a) attacking mentality = shorter passing
-b) control mentality = shorter passing, whipped crosses
-c) standard mentality = whipped crosses
-d) counter mentality = work ball into box, whipped crosses
-e) defensive mentality = work ball into box
-
-
-7) Mentality and fluidity efficiency
+6) Mentality and fluidity efficiency
 
 a) 1-20th min = attacking, highly structured
 b) 20th-40th min = control, structured
@@ -65,8 +56,7 @@ c) 40th-60th min = standard, flexible
 d) 60th-80th min = counter, fluid
 e) 80th min-endtime = defensive, very fluid
 
-
-8) Notes
+7) Notes
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
@@ -78,8 +68,11 @@ g) It may be a good idea to play what is efficient when it's efficient, even if 
 h) Girls should train all 4 mentality/fluidity combos
 g) For training might be a good idea to tell your team to try to develop some new scheme in offense/defense, like 1 new one a month
 h) If you play a mentality at opposite time it is efficient in, you may conceede.
+i) Player more in defense or press more or fluidity increase is basically achieving same thing in multiple ways
+j) Player more in offense or direct passing or mentality increase is basically achieving same thing in multiple ways
+k) Your goal is to play fluid counter, to achieve best form of your players, no matter which mix from i) and j) you use
 
-9) Player responsibilities
+8) Player responsibilities
 
 a) Very fluid
 
