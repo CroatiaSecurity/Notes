@@ -56,13 +56,11 @@ c) 40th-60th min = standard, flexible
 d) 60th-80th min = counter, fluid
 e) 80th min-endtime = defensive, very fluid
 
-7) Team instructions
+7) Team instructions (simple handling of shooting, passing and crossing)
 
-a) No unnecessary team instructions at start of match
-b) If you're shooting but aren't scoring, order work ball into box
-c) If your crosses aren't connecting, order whipped crosses
-d) If you don't have enough posession, order retain posession
-e) If any issues, remember rule a)
+a) short passing = if playing attacking or control
+b) whipped crosses = if playing control, standard or counter
+c) direct passing = if playing counter or defensive
 
 8) How to play if in England
 
