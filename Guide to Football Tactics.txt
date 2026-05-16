@@ -64,7 +64,14 @@ c) If your crosses aren't connecting, order whipped crosses
 d) If you don't have enough posession, order retain posession
 e) If any issues, remember rule a)
 
-8) Notes
+8) How to play if in England
+
+a) Premier and Championship leagues = fluid
+b) Leagues 1 and 2 = flexible
+c) Vanarama leagues = structured
+d) Amateur leagues = highly structured
+
+9) Notes
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
@@ -77,7 +84,7 @@ h) Girls should train all 4 mentality/fluidity combos
 g) For training might be a good idea to tell your team to try to develop some new scheme in offense/defense, like 1 new one a month
 h) If you play a mentality at opposite time it is efficient in, you may conceede.
 
-9) Player responsibilities
+10) Player responsibilities
 
 a) Very fluid
 
