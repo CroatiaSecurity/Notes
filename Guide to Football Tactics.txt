@@ -59,10 +59,11 @@ e) 80th min-endtime = defensive, very fluid
 7) Team instructions (simple handling of shooting, passing and crossing)
 
 a) short passing = if playing attacking or control
-b) whipped crosses = if playing control, standard or counter
-c) direct passing = if playing counter or defensive
-d) work ball into box = if playing attacking or contro
-e) shoot on sight = if playing counter or defensive
+b) direct passing = if playing counter or defensive
+c) Press more = if playing structured
+d) Press much more = if playing highly structured
+e) Stand off = if playing fluid
+f) whipped crosses = if playing control, standard or counter
 
 8) How to play if in England
 
