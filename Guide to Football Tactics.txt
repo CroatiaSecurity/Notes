@@ -10,11 +10,11 @@ g) 6 attackers = overload
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
-a) 7 defenders = very fluid
-b) 6 defenders = fluid
+a) 3 defenders = very fluid
+b) 4 defenders = fluid
 c) 5 defenders = flexible
-d) 4 defenders = structured
-e) 3 defenders = highly structured
+d) 6 defenders = structured
+e) 7 defenders = highly structured
 
 3. Fluidity meaning:
 
@@ -26,11 +26,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) highly structured = 0-1 support duties
-b) structured = 2-3 support duties
+a) highly structured = 8-9 support duties
+b) structured = 6-7 support duties
 c) flexible = 4-5 support duties
-d) fluid = 6-7 support duties
-e) very fluid = 8-9 support duties
+d) fluid = 2-3 support duties
+e) very fluid = 0-1 support duties
 
 5. This is your strong spot. Opposite of this is your weak spot
 
@@ -65,14 +65,7 @@ d) Press much more = if playing highly structured
 e) Stand off = if playing fluid
 f) whipped crosses = if playing control, standard or counter
 
-8) How to play if in England
-
-a) Premier and Championship leagues = fluid
-b) Leagues 1 and 2 = flexible
-c) Vanarama leagues = structured
-d) Amateur leagues = highly structured
-
-9) Notes
+8) Notes
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
@@ -80,12 +73,8 @@ c) More agressive mentality means more shots and more shots converted to goals.
 d) More structured fluidity means bad decisions
 e) More fluid or more agressive means tiring out players before 90th minute
 f) If both teams play the same, agressive tactic will favor home team, and defensive tactics will favor away team
-g) It may be a good idea to play what is efficient when it's efficient, even if you are chasing result
-h) Girls should train all 4 mentality/fluidity combos
-g) For training might be a good idea to tell your team to try to develop some new scheme in offense/defense, like 1 new one a month
-h) If you play a mentality at opposite time it is efficient in, you may conceede.
 
-10) Player responsibilities
+9) Player responsibilities
 
 a) Very fluid
 
