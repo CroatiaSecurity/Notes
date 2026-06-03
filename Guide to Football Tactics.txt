@@ -1,6 +1,6 @@
 ﻿1. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 0 oattackers = defend
+a) 0 attackers = defend
 b) 1 attacker = counter
 c) 2 attackers = standard
 d) 3 attackers = control
