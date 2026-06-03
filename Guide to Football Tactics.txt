@@ -4,7 +4,7 @@ a) 0 oattackers = defend
 b) 1 attacker = counter
 c) 2 attackers = standard
 d) 3 attackers = control
-e) 4 attackers = atacking
+e) 4 attackers = attacking
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
