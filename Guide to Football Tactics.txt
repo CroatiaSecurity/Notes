@@ -1,12 +1,12 @@
 ﻿1. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 6 attackers = contain
-b) 5 attackers = defensive
-c) 4 attackers = counter
+a) 0 attackers = contain
+b) 1 attackers = defensive
+c) 2 attackers = counter
 d) 3 attackers = standard
-e) 2 attackers = control
-f) 1 attacker = atacking
-g) 0 attackers = overload
+e) 4 attackers = control
+f) 5 attacker = atacking
+g) 6 attackers = overload
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
@@ -48,13 +48,13 @@ e) counter = CB
 f) defensive = SW
 g) contain = GK
 
-6) Mentality and fluidity efficiency
+6) Mentality efficiency
 
-a) 1-20th min = attacking, highly structured
-b) 20th-40th min = control, structured
-c) 40th-60th min = standard, flexible
-d) 60th-80th min = counter, fluid
-e) 80th min-endtime = defensive, very fluid
+a) 1-20th min = attacking
+b) 20th-40th min = control
+c) 40th-60th min = standard
+d) 60th-80th min = counter
+e) 80th min-endtime = defensive
 
 7) Team instructions (simple handling of shooting, passing and crossing)
 
@@ -69,10 +69,9 @@ f) whipped crosses = if playing control, standard or counter
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
-c) More agressive mentality means more shots and more shots converted to goals.
-d) More structured fluidity means bad decisions
-e) More fluid or more agressive means tiring out players before 90th minute
-f) If both teams play the same, agressive tactic will favor home team, and defensive tactics will favor away team
+c) More structured fluidity means bad decisions
+d) If both teams play the same, agressive tactic will favor home team, and defensive tactics will favor away team
+e) Bad weather will favor more agressive mentality
 
 9) Player responsibilities
 
