@@ -1,12 +1,10 @@
 ﻿1. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 0 attackers = contain
-b) 1 attackers = defensive
-c) 2 attackers = counter
-d) 3 attackers = standard
-e) 4 attackers = control
-f) 5 attacker = atacking
-g) 6 attackers = overload
+a) 0 oattackers = defend
+b) 1 attacker = counter
+c) 2 attackers = standard
+d) 3 attackers = control
+e) 4 attackers = atacking
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
