@@ -1,4 +1,4 @@
-﻿Linux is basically simple. You got core OS, on which you install apps. Apps come in form of packages, and their dependencies are also packages.
+Linux is basically simple. You got core OS, on which you install apps. Apps come in form of packages, and their dependencies are also packages.
 Unlike Windows, Linux makes a difference between small and capital letters, and will return error if not exact.
 You can start by downloading a fairly small install file to install over network and end up with system capable of anything:
 
@@ -246,5 +246,3 @@ If you're using apt, that means you're on debian based distro. Arch for example 
 
 If you want to merge your debian install with another one, or install a different debian based distro, you can. 
 Just keep your /home folder to keep your stuff. This is why you should keep /home on a separate, bigger drive.
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

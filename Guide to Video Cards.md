@@ -59,5 +59,3 @@ https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units
 https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
 
 https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

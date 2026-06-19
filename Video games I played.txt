@@ -312,5 +312,3 @@ Path of Exile
 Age of Conan
 Dota 2
 Silkroad
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

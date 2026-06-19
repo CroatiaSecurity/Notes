@@ -1,20 +1,19 @@
-﻿1. Set mentality depending on number of attackers (W, AMC, ST)
+1. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 0 attackers = overload
-b) 1 attacker = attacking
-c) 2 attackers = control
+a) 0 attackers = contain
+b) 1 attacker = defend
+c) 2 attackers = counter
 d) 3 attackers = standard
-e) 4 attackers = counter
-f) 5 attackers = defensive
-g) 6 attackers = contain
+e) 4 attackers = control
+f) 5 attackers = attacking
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
-a) 7 defenders = highly structured
-b) 6 defenders = structured
+a) 7 defenders = very fluid
+b) 6 defenders = fluid
 c) 5 defenders = flexible
-d) 4 defenders = fluid
-e) 3 defenders = very fluid
+d) 4 defenders = structured
+e) 3 defenders = highly structured
 
 3. Fluidity meaning:
 
@@ -26,11 +25,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) highly structured = 8-9 support duties
-b) structured = 6-7 support duties
+a) very fluid = 8-9 support duties
+b) fluid = 6-7 support duties
 c) flexible = 4-5 support duties
-d) fluid = 2-3 support duties
-e) very fluid = 0-1 support duties
+d) structured = 2-3 support duties
+e) highly structured = 0-1 support duties
 
 5. This is your strong spot. Opposite of this is your weak spot
 
@@ -1730,5 +1729,3 @@ OVERLOAD
     Support Duty (Multiple Strikers): Test Defence With Precision
     Trequartista (Lone Striker): Test Defence
     Trequartista (Multiple Strikers): Test Defence
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740
