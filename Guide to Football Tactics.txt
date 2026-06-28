@@ -1,19 +1,20 @@
 1. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 0 attackers = contain
-b) 1 attacker = defend
-c) 2 attackers = counter
+a) 0 attackers = overload
+b) 1 attacker = attacking
+b) 2 attackers = control
 d) 3 attackers = standard
-e) 4 attackers = control
-f) 5 attackers = attacking
+e) 4 attackers = counter
+f) 5 attackers = defend
+g) 6 attackers = contain
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
-a) 7 defenders = very fluid
-b) 6 defenders = fluid
+a) 7 defenders = highly structured
+b) 6 defenders = structured
 c) 5 defenders = flexible
-d) 4 defenders = structured
-e) 3 defenders = highly structured
+d) 4 defenders = fluid
+e) 3 defenders = very fluid
 
 3. Fluidity meaning:
 
@@ -25,11 +26,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) very fluid = 8-9 support duties
-b) fluid = 6-7 support duties
+a) very fluid = 0-1 support duties
+b) fluid = 2-3 support duties
 c) flexible = 4-5 support duties
-d) structured = 2-3 support duties
-e) highly structured = 0-1 support duties
+d) structured = 6-7 support duties
+e) highly structured = 8-9 support duties
 
 5. This is your strong spot. Opposite of this is your weak spot
 
@@ -55,13 +56,24 @@ c) 40th-60th min = standard
 d) 60th-80th min = counter
 e) 80th min-endtime = defensive
 
-7) Notes
+7) Mentality and fluidity combos
+
+a) highly structured attacking
+b) structured control
+c) flexible standard
+d) fluid counter
+e) very fluid defensive
+
+9) Notes
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
 c) More structured fluidity means bad decisions
 d) If both teams play the same, agressive tactic will favor home team, and defensive tactics will favor away team
 e) Bad weather will favor more agressive mentality
+f) Team and player instructions should be none, unless assistant tells you during specific situations to make adjustments
+g) More defensively you play, you reduce your shots and require better finishing. 
+h) More fluid and more defensive will yield better form.
 
 8) Player responsibilities
 
