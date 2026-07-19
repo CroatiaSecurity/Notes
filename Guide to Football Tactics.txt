@@ -1,12 +1,10 @@
-1. Set mentality depending on number of attackers (W, AMC, ST)
+1. Set mentality depending on number of lines missing in your formation (don't forget SW)
 
-a) 0 attackers = overload
-b) 1 attacker = attacking
-b) 2 attackers = control
-d) 3 attackers = standard
-e) 4 attackers = counter
-f) 5 attackers = defend
-g) 6 attackers = contain
+a) 4 lines missing = defensive
+b) 3 lines missing = counter
+b) 2 lines missing = standard
+d) 1 lines missing = control
+e) 0 lines missing = attacking
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
