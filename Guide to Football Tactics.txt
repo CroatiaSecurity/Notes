@@ -54,15 +54,7 @@ c) 40th-60th min = standard
 d) 60th-80th min = counter
 e) 80th min-endtime = defensive
 
-7) Mentality and fluidity combos
-
-a) highly structured attacking
-b) structured control
-c) flexible standard
-d) fluid counter
-e) very fluid defensive
-
-8) Notes
+7) Notes
 
 a) Attacking mentality means your weak spot is defense, so you may not want to play attacking mentality
 b) If mentality is higher than fluidity, players will get cards or get injured.
@@ -73,7 +65,7 @@ f) Team instructions should be none, unless assistant tells you during specific 
 g) More defensively you play, you reduce your shots and require better finishing. 
 h) More fluid and more defensive will yield better form.
 
-9) Player responsibilities
+8) Player responsibilities
 
 a) Very fluid
 
