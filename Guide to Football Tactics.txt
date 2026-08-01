@@ -1,10 +1,10 @@
 1. Set mentality depending on number of lines missing in your formation (don't forget SW)
 
-a) 4 lines missing = defensive
-b) 3 lines missing = counter
+a) 0 lines missing = defensive
+b) 1 line missing = counter
 b) 2 lines missing = standard
-d) 1 lines missing = control
-e) 0 lines missing = attacking
+d) 3 lines missing = control
+e) 4 lines missing = attacking
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
