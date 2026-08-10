@@ -1,10 +1,10 @@
-1. Set mentality depending on triangles in your formation
+1. Set mentality depending on lines missing in your formation ( Don't forget SW)
 
-a) DM + MC + AMC = defensive
-b) DM + MC = counter
-b) MC = standard
-d) MC + AMC = control
-e) DM + AMC = attacking
+a) 0 lines missing = defensive
+b) 1 line missing = counter
+b) 2 lines missing = standard
+d) 3 lines missing = control
+e) 4 lines missing = attacking
 
 2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
 
