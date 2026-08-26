@@ -1,18 +1,18 @@
-1. Set mentality depending on lines missing in your formation ( Don't forget SW)
+1. Set mentality depending on number of attackers in your formation (W, AMC, ST)
 
-a) 0 lines missing = attacking
-b) 1 line missing = control
-b) 2 lines missing = standard
-d) 3 lines missing = counter
-e) 4 lines missing = defensive
+a) 5 attackers = defensive
+b) 4 attackers = counter
+b) 3 attackers = standard
+d) 2 attackers = control
+e) 1 attacker = attacking
 
-2. Set fluidity depending on number of defenders (WB, DM, FB, CB)
+2. Set fluidity depending on number of horizontal lines missing in your formation (don't forget sw)
 
-a) 7 defenders = highly structured
-b) 6 defenders = structured
-c) 5 defenders = flexible
-d) 4 defenders = fluid
-e) 3 defenders = very fluid
+a) 0 lines missing = highly structured
+b) 1 line missing = structured
+c) 2 lines missing = flexible
+d) 3 lines missing = fluid
+e) 4 lines missing = very fluid
 
 3. Fluidity meaning:
 
