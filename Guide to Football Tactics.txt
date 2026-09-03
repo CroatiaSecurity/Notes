@@ -6,13 +6,13 @@ b) 2 attackers = standard
 d) 1 attacker = control
 e) 0 attackers = attacking
 
-2. Set fluidity depending on number of horizontal lines missing in your formation (don't forget sw)
+2. Set fluidity depending on number of defenders in your formation
 
-a) 0 lines missing = highly structured
-b) 1 line missing = structured
-c) 2 lines missing = flexible
-d) 3 lines missing = fluid
-e) 4 lines missing = very fluid
+a) 3 defenders = highly structured
+b) 4 defenders = structured
+c) 5 defenders = flexible
+d) 6 defenders = fluid
+e) 7 defenders = very fluid
 
 3. Fluidity meaning:
 
@@ -24,11 +24,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) very fluid = 0-1 support duties
-b) fluid = 2-3 support duties
+a) highly structured = 0-1 support duties
+b) structured = 2-3 support duties
 c) flexible = 4-5 support duties
-d) structured = 6-7 support duties
-e) highly structured = 8-9 support duties
+d) fluid = 6-7 support duties
+e) very fluid = 8-9 support duties
 
 5. This is your strong spot. Opposite of this is your weak spot
 
