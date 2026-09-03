@@ -1,10 +1,10 @@
 1. Set mentality depending on number of attackers in your formation (W, AMC, ST)
 
-a) 5 attackers = defensive
-b) 4 attackers = counter
-b) 3 attackers = standard
-d) 2 attackers = control
-e) 1 attacker = attacking
+a) 4 attackers = defensive
+b) 3 attackers = counter
+b) 2 attackers = standard
+d) 1 attacker = control
+e) 0 attackers = attacking
 
 2. Set fluidity depending on number of horizontal lines missing in your formation (don't forget sw)
 
