@@ -8,11 +8,11 @@ e) 0 attackers = attacking
 
 2. Set fluidity depending on number of defenders in your formation
 
-a) 3 defenders = highly structured
-b) 4 defenders = structured
+a) 7 defenders = highly structured
+b) 6 defenders = structured
 c) 5 defenders = flexible
-d) 6 defenders = fluid
-e) 7 defenders = very fluid
+d) 4 defenders = fluid
+e) 3 defenders = very fluid
 
 3. Fluidity meaning:
 
@@ -24,11 +24,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) highly structured = 0-1 support duties
-b) structured = 2-3 support duties
+a) very fluid = 0-1 support duties
+b) fluid = 2-3 support duties
 c) flexible = 4-5 support duties
-d) fluid = 6-7 support duties
-e) very fluid = 8-9 support duties
+d) structured = 6-7 support duties
+e) highly structured = 8-9 support duties
 
 5. This is your strong spot. Opposite of this is your weak spot
 
